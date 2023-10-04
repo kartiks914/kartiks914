@@ -1,6 +1,6 @@
 <h1 align=center> 💫 Hi, I'm Kartik Sharma</h1>
  <p align=center>
- 👋 I am Currently learning about Cybersecurity & Digital Forensics, Azure, VAPT.👋 <br> 💭 I am always up for hackathons, Lets git it done !💭 <br> 💬 Ask me about Cybersecurity and Cloud computing :) 💬<br> ⚡ Fun fact : I love Traveling and meeting new people !⚡
+ 👋 I am Currently learning about Cybersecurity & Digital Forensics, Azure, and VAPT.👋 <br> 💭 I am always up for hackathons, Lets git it done !💭 <br> 💬 Ask me about Cybersecurity and Cloud computing :) 💬<br> ⚡ Fun fact: I love Traveling and meeting new people !⚡
  </p>
 
 
@@ -11,8 +11,10 @@
 <div align=center> 
 
  ![](https://github-readme-stats.vercel.app/api?username=kartiks914&theme=gotham&hide_border=true&include_all_commits=false&count_private=false)<br/>
- 
-![](https://github-readme-streak-stats.herokuapp.com/?user=kartiks914&theme=gotham&hide_border=true)<br/>
+
+  
+![](https://github-readme-streak-stats.herokuapp.com/?user=kartiks914&theme=dark&hide_border=true) <br/>
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kartiks914&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 </div>
@@ -21,7 +23,8 @@
  
  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
+ <h3 align=center>🔝 Top Contributed Repo</h3>
+ 
 ![](https://github-contributor-stats.vercel.app/api?username=kartiks914&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
