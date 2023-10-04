@@ -1,4 +1,4 @@
-<h1 align=center> 💫 About Me:</h1>
+<h1 align=center> 💫 Hi, I'm Kartik Sharma</h1>
  <p align=center>
  👋 I am Currently learning about Cybersecurity & Digital Forensics, Azure, VAPT.<br> 💭 I am always up for hackathons, Lets git it done !<br> 💬 Ask me about Cybersecurity and Cloud computing :) <br> ⚡ Fun fact : I love Traveling and meeting new people !
  </p>
